@@ -17,7 +17,7 @@ Tenho interesse:
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 
-<img width="250" align="right" src="https://i.pinimg.com/originals/a5/43/7e/a5437ecc2ab152de7c0d69ed800af4a4.gif" /> 
+<img width="220" align="right" src="https://i.pinimg.com/originals/a5/43/7e/a5437ecc2ab152de7c0d69ed800af4a4.gif" /> 
 </div>
 
 <div>
