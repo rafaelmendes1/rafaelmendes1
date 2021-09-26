@@ -12,17 +12,17 @@ Atualmente estou aprendendo:
 </p>
 
 Tenho interesse:
-<p>
+<div>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white%20" /> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-</p>
 
-### :gear:...
+<img width="250" align="right" src="https://i.pinimg.com/originals/a5/43/7e/a5437ecc2ab152de7c0d69ed800af4a4.gif" /> 
+</div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmendes1&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmendes1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmendes1&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmendes1&layout=compact&theme=tokyonight" />
 </div>
 
 #### Rede Sociais:
