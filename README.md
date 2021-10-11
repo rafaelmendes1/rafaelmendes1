@@ -1,6 +1,6 @@
 ## Ora, ora. Olá!
 
-Gosto de programar várias coisas e busco conhecer como as ferramentas que uso no dia a dia realmente funcionam
+Tentando usufruir de tudo que a área de computação proporciona.
 
 Atualmente estou aprendendo:
 <p>
@@ -17,7 +17,7 @@ Tenho interesse:
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 
-<img width="300" align="right" src="https://i.pinimg.com/originals/a5/43/7e/a5437ecc2ab152de7c0d69ed800af4a4.gif" /> 
+<img width="300" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" /> 
 </div>
 
 <div>
