@@ -1,7 +1,5 @@
 ## Ora, ora. Olá!
 
-Tentando usufruir de tudo que a área de computação proporciona.
-
 Atualmente estou aprendendo:
 <p>
 
