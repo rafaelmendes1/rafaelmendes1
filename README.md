@@ -14,6 +14,7 @@ Tenho interesse:
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white%20" /> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> 
 
 <img width="300" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" /> 
 </div>
