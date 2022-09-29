@@ -1,6 +1,6 @@
-## Ora, ora. Olá!
+## Boas-vindas
 
-Atualmente estou aprendendo:
+Atualmente estou estudando:
 <p>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white%20" /> 
@@ -9,7 +9,7 @@ Atualmente estou aprendendo:
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white%20https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> 
 </p>
 
-Tenho interesse:
+Tenho interesse nessas tecnologias:
 <div>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white%20" /> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
